@@ -1,3 +1,3 @@
 # terraform
 
-run "file.sh" to install terraform
+Terraform installation and related files
